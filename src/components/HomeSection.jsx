@@ -17,7 +17,7 @@ export default function HomeSection() {
           </div>
           <div className="col-md-6 order-md-first mt-4 home-intro-up">
             <p className="text-muted">Hello I am</p>
-            <h1 className="text-danger text-uppercase fw-bold">Web Desinger</h1>
+            <h1 className="text-danger text-uppercase fw-bold">Frontend Developer and Graphic Desinger</h1>
             <h2 className="text-secondary">Myo Myat Thu</h2>
             <p className="text-muted">
               I am a Frontend Developer skilled in Html, Css, JavaScript, React, and Vue.js with additional
